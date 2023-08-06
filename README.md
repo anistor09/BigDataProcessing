@@ -1,1 +1,2 @@
 # BigDataProcessing
+This directory contains code that I developed during my second year of bachelor's studies while taking the Big Data Processing course. It offers various methods for data processing using functional programming in Scala, Unix shell scripting, Apache Flink, and Apache Spark.
